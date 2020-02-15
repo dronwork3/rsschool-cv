@@ -6,4 +6,4 @@
 4. **SKils:**Git, HTML, CSS, JS basics, C++ basics, Java basics.
 5. I took part in an internship from **ITransition**, worked on term papers at the university. I have no working practice.
 6. I am a student of BSUIR, Faculty of Engineering and Economics, specialty information systems and technologies in economics, third year. I studied several programming languages at the initial level at the university, and also took Java courses, read books on typesetting.
-7. 
+7. According to training.by my English level is B1(*Intermediate*).
