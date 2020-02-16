@@ -1,0 +1,31 @@
+#page {
+    width: 100%;
+}
+header {
+	background-color:#808000;
+	text-align: center;
+}
+main>ul {
+    list-style: none;
+    padding:5px;
+}
+section {
+    background-color:#dddddd;
+    height:400px;
+    width:30%;
+    float:left;
+    padding:5px;        
+}
+aside {
+    background-color:#eeeeee;
+    height:400px;
+    width:68%;
+    float:left;
+    padding:5px;    
+}
+footer {
+    background-color:#808000;
+    clear:both;
+    text-align:center;
+    padding:5px;    
+}
