@@ -1,5 +1,6 @@
 #page {
-    width: 100%;
+	width: 1024px;
+	margin: auto;
 }
 header {
 	background-color:#808000;
@@ -31,6 +32,10 @@ aside {
     width:68%;
     float:left;
     padding:5px;    
+}
+aside>ol {
+	margin-top:15px;
+	font-weight: bold;
 }
 footer {
     background-color:#808000;
