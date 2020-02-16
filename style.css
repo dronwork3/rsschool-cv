@@ -5,16 +5,25 @@ header {
 	background-color:#808000;
 	text-align: center;
 }
-main>ul {
+section>h3 {
+	text-align: left;
+	font-family: 'Courier New', Courier, monospace;
+}
+section>ul {
     list-style: none;
-    padding:5px;
+	padding:5px;
+	font-style: italic;
+}
+section>b {
+	display: flex;
+	padding: 5px;
 }
 section {
     background-color:#dddddd;
     height:400px;
     width:30%;
     float:left;
-    padding:5px;        
+	padding:5px;        
 }
 aside {
     background-color:#eeeeee;
